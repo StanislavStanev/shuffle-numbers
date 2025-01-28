@@ -1,0 +1,14 @@
+server:
+  port: 8099
+
+spring:
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
+    listener:
+      simple:
+        acknowledge-mode: auto
+    queue:
+      name: test-queue

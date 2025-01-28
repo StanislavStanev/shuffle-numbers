@@ -1,0 +1,9 @@
+
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8Þ°‡¾ê1J$7a2271d8-5a83-446b-a0bb-d4d8baba9c5c
+}	java:S125"<This block of commented-out lines of code should be removed.(´™8ÁÆ™¬‰1J$5514b763-f19f-4d09-8171-92c94d828e3a
+]	java:S125"<This block of commented-out lines of code should be removed.(¾¥î‹þÿÿÿÿ8Ø¸ˆ¢ƒ2
+r
+java:S1128"PRemove this unused import 'org.springframework.web.bind.annotation.PostMapping'.(äƒà°ùÿÿÿÿ8Ø¸ˆ¢ƒ2
+r
+java:S1128"PRemove this unused import 'org.springframework.web.bind.annotation.RequestBody'.(â­½Àýÿÿÿÿ8Ø¸ˆ¢ƒ2
